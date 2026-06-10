@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(0, 0, 0);
+  margin-top: 15px ;
+}
+
+h1 {
+  color: rgba(204, 72, 31, 0.897);
+  font-size: 50px;
+  margin :20px;
+}
+h2 {
+  color: rgba(255, 94, 0, 0.568);
+}
+P {
+  color: rgb(255, 255, 255);
+  text-align: left;
+}
+
+img {
+  width: 300px;
+}
+table {
+  color: rgb(255, 255, 255);
+}
